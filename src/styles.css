@@ -1,0 +1,6 @@
+canvas.webgl {
+  width: 500px;
+  height: 500px;
+  background-color: slategray;
+  border: 2px solid black;
+}
